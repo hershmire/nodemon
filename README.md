@@ -2,6 +2,8 @@
 
 # nodemon
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hershmire/nodemon.svg)](https://greenkeeper.io/)
+
 [![Donate](https://img.shields.io/badge/donate-%20%E2%9D%A4%20-green.svg)](https://www.paypal.me/rem)
 
 For use during development of a node.js based application.
